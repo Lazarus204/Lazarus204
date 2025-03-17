@@ -1,36 +1,31 @@
-# Hi there, I'm Lazarus 👋
+# 👋 Hello, I'm Lazarus Mutua!
 
-## 🚀 About Me
-I’m a **Data Analyst** with a strong background in **Biomedical Science and Technology**, currently pursuing a **BSc in Biomedical Science & Technology at Egerton University**. My work bridges the gap between healthcare and data, applying analytical skills to solve real-world problems, especially in the medical field.
+🎓 **Biomedical Sciences & Technology Student | Aspiring Bioinformatician**
 
-- 🎓 I'm working towards my degree, focusing on **Bioinformatics**, **Biostatistics**, and related areas.
-- 🌱 I’m currently expanding my knowledge in **data science** and exploring tools like **machine learning** and **Python** for advanced analytics.
-- 👯 I’m looking to collaborate on **data-driven projects** in healthcare, software testing, and biomedical research.
-- 💬 Ask me about **data analytics**, **bioinformatics**, **software testing**, and my journey as a **software tester** and **Test Team Lead candidate**.
-- 📫 How to reach me: **bluekid1824@gmail.com**
-- ⚡ Fun fact: I’m passionate about combining software development with healthcare innovations, aiming to create solutions that modernize hospital management systems!
+I'm on a mission to bridge the gap between **biology** and **technology**—exploring how computational tools can unlock the secrets hidden within biological data. With a solid foundation in **biomedical sciences**, I'm diving deep into **bioinformatics**, combining biological insights with programming prowess to tackle complex biological questions.
 
-## 🛠️ Skills
-- **Languages**: Python, SQL, R
-- **Frameworks**: Django, Flask
-- **Tools**: Git, Excel, Power BI, Tableau
-- **Interests**: Data Science, Machine Learning, Software Testing, Bioinformatics
+### 🔬 What I'm Passionate About:
+- **Bioinformatics** – Analyzing genomic data and uncovering biological insights through computational methods.
+- **Data Science & Machine Learning** – Exploring how advanced algorithms can revolutionize healthcare and biological research.
+- **Open Science** – Sharing knowledge and contributing to projects that advance scientific discovery.
 
-## 📊 GitHub Stats
-![Lazarus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarus204&show_icons=true&theme=radical)
+### 🛠️ Tech Toolbox:
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarus204&layout=compact&theme=radical)
+- **Languages**: R, Python, Bash
+- **Systems**: Linux (loving the terminal life!)
+- **Skills**: Data analysis, genomic pipelines, script automation, and reproducible research
 
-## 🏆 Achievements
-- 🥇 Test Team Lead (TTL) Candidate on **uTest**
-- 🏆 Completed multiple **data analysis projects** and **software testing projects** for platforms like **Meta** and **Artsy**
+### 🌱 Currently Exploring:
+- Next-generation sequencing (NGS) data analysis
+- Applying **machine learning** techniques in biomedical research
+- Enhancing my **Linux** and **Bash** wizardry for more efficient workflows
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](https://yourbloglink.com)
-- [Another blog post](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
+### 📚 Always Learning:
+The world of bioinformatics is vast, and I'm committed to continuous learning—whether it's optimizing pipelines, diving into **deep learning**, or refining my coding craft.
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-profile) [![Portfolio](https://img.shields.io/badge/Portfolio-My_Site-orange)](https://yourwebsite.com)
+### 📫 Connect with Me:
+- GitHub: [Lazarus204](https://github.com/Lazarus204)
+- LinkedIn: https://www.linkedin.com/in/lazarus-mutua-617366262/
+- Email: bluekid1824@gmail.com
+
+Let's push the frontiers of biomedical science—one line of code at a time! 🚀
