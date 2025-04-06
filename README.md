@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lazarus Mutua!
 
-🎓 ## Biomedical Sciences & Technology Student | Aspiring Bioinformatician
+## 🎓 Biomedical Sciences & Technology Student | Aspiring Bioinformatician
 
 I'm on a mission to bridge the gap between **biology** and **technology**—exploring how computational tools can unlock the secrets hidden within biological data. With a solid foundation in **biomedical sciences**, I'm diving deep into **bioinformatics**, combining biological insights with programming prowess to tackle complex biological questions.
 
